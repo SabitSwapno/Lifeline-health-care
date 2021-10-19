@@ -1,16 +1,26 @@
-import React from 'react';
-import Footer from '../Shared/Footer/Footer';
-import Header from '../Shared/Header/Header';
+import React, { useEffect, useState } from 'react';
+import Service from './Service/Service';
+import './Services.css'
 
 const Services = () => {
+    const [service, setService] = useState([])
+    useEffect(() => {
+        fetch('myServices.json')
+            .then(res => res.json())
+            .then(data => setService(data))
+    }, [])
     return (
-        <>
-            <Header></Header>
-            <div>
-                <h1>This is services.</h1>
+        <div id="services">
+            <h2 className="pb-3 text-white fw-bolder">These are our Services</h2>
+            <div className="row g-3">
+                {
+                    service.map(service => <Service
+                        key={service.id}
+                        service={service}
+                    ></Service>)
+                }
             </div>
-            <Footer></Footer>
-        </>
+        </div>
     );
 };
 

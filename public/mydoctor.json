@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "Md Emdad",
+        "time": "10 to 3",
+        "speciality": "Breast Cancer",
+        "charge": 1000,
+        "number": 120990
+    },
+    {
+        "id": 2,
+        "name": "Mr Borua",
+        "time": "10 to 3",
+        "speciality": "Diabetology",
+        "charge": 500,
+        "number": 120660
+    },
+    {
+        "id": 3,
+        "name": "Md Murshid",
+        "time": "4 to 9",
+        "speciality": "Critical Care",
+        "charge": 300,
+        "number": 124490
+    },
+    {
+        "id": 4,
+        "name": "Mr Bashiru",
+        "time": "4 to 9",
+        "speciality": "E.N.T",
+        "charge": 1000,
+        "number": 122990
+    },
+    {
+        "id": 5,
+        "name": "Md Jolil",
+        "time": "10 to 3",
+        "speciality": "Cardiology - Paediatric",
+        "charge": 1500,
+        "number": 120667
+    },
+    {
+        "id": 6,
+        "name": "Md Kaka",
+        "time": "10 to 3",
+        "speciality": "Kidney Transplant - Paediatric",
+        "charge": 5000,
+        "number": 130990
+    },
+    {
+        "id": 7,
+        "name": "Ms Karimun",
+        "time": "10 to 3",
+        "speciality": "Gynaecology - Oncology",
+        "charge": 1000,
+        "number": 1777990
+    },
+    {
+        "id": 8,
+        "name": "Ms Khatun",
+        "time": "4 to 9",
+        "speciality": "Internal Medicine",
+        "charge": 500,
+        "number": 1209090
+    },
+    {
+        "id": 9,
+        "name": "Md Khurran",
+        "time": "4 to 9",
+        "speciality": "Radiology",
+        "charge": 1000,
+        "number": 189900
+    },
+    {
+        "id": 10,
+        "name": "Md Tamim",
+        "time": "10 to 3",
+        "speciality": "Spine Surgery",
+        "charge": 2000,
+        "number": 121990
+    },
+    {
+        "id": 11,
+        "name": "Md Jabbar",
+        "time": "10 to 3",
+        "speciality": "Surgery - Paediatric",
+        "charge": 2000,
+        "number": 121190
+    },
+    {
+        "id": 12,
+        "name": "Mr kalam",
+        "time": "4 to 9",
+        "speciality": "Liver Transplant - Paediatric",
+        "charge": 5000,
+        "number": 120555
+    },
+    {
+        "id": 13,
+        "name": "Md Golam",
+        "time": "10 to 3",
+        "speciality": "CABG",
+        "charge": 2000,
+        "number": 178990
+    },
+    {
+        "id": 14,
+        "name": "Ms Fazilatun",
+        "time": "4 to 10",
+        "speciality": "Nuclear Medicine",
+        "charge": 1000,
+        "number": 990990
+    },
+    {
+        "id": 15,
+        "name": "Md Sajib RC ",
+        "time": "10 to 3",
+        "speciality": "Anaesthesia",
+        "charge": 1000,
+        "number": 134562
+    }
+]

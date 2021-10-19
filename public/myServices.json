@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Pediatric Care",
+        "ward": 15,
+        "vacancy": 37,
+        "description": "Childrens are future of a country and illness is their main enemy so have to stop them.",
+        "img": "https://i.ibb.co/yN2XkxK/535.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Urgent Care",
+        "ward": 11,
+        "vacancy": 51,
+        "description": "this is the most emergency services of a clinic or a hospital.",
+        "img": "https://i.ibb.co/Dwg3NQ2/18033.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Mental Health Services",
+        "ward": 40,
+        "vacancy": 27,
+        "description": "The humanity we all share is more important than the mental illnesses we may not.",
+        "img": "https://i.ibb.co/VWgph5Z/mental-health-care-sketch-diagram.jpg"
+    },
+    {
+        "id": 4,
+        "name": "High Quality ICU",
+        "ward": 3,
+        "vacancy": 9,
+        "description": "Many marriages would have been laid to rest a long time ago, if they were not on a life-support machine called other people’s opinions and/or expectations.",
+        "img": "https://i.ibb.co/ZmD3Ks3/empty-hospital-ward-designed-with-medical-equipment.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Dental Care",
+        "ward": 46,
+        "vacancy": 51,
+        "description": "Every tooth in a man’s head is more valuable than a diamond. So take care!.",
+        "img": "https://i.ibb.co/60JMLwn/55084.jpg"
+    },
+    {
+        "id": 6,
+        "name": "24/7 Ambulance Services",
+        "ward": 11,
+        "vacancy": "7 Ambulance",
+        "description": "We have 11 Ambulances for the urgencies bacause This is one of the most emergency services of a clinic or a hospital.",
+        "img": "https://i.ibb.co/vjGjjRC/446747-PF39-SX-389.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Hearing and Vision services",
+        "ward": 7,
+        "vacancy": 23,
+        "description": "Don't worry God is never blind to your tears,Never deaf to your prayers.He sees he hear and he will deliver.",
+        "img": "https://i.ibb.co/GJTLBBT/12352.jpg"
+    }
+]

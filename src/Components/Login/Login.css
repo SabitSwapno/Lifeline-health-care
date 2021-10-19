@@ -1,0 +1,51 @@
+.bg-custom {
+ background-color: cadetblue;
+ padding-bottom: 15px;
+}
+
+.form-bg-custom {
+    padding: 10px;
+    background-color: rgb(247, 217, 152);
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px 5px gray;
+}
+
+.d-inline-flex a {
+    text-decoration: none;
+    background-color: teal;
+    color: white;
+    margin-bottom: 10px;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+.d-inline-flex a:hover {
+    background-color: beige;
+    color: black;
+}
+
+.login-submit-btn {
+    background-color: rgb(8, 117, 145);
+    padding: 10px 30px;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    font-weight: 600;
+    box-shadow: 0px 0px 5px 0px black;
+}
+.login-submit-btn:hover {
+    background-color: beige;
+    color: black;
+}
+.google-btn {
+    border: none;
+    background-color: white;
+    margin-left: 20px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 600;
+    box-shadow: 0px 0px 5px 0px gray;
+}
+.google-btn:hover {
+    background-color: rgb(8, 117, 145);
+    color: white;
+}

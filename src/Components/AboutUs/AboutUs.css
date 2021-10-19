@@ -1,0 +1,14 @@
+.backgroud-img {
+    background-image: url(https://img.freepik.com/free-photo/blur-hospital_1203-7972.jpg?size=626&ext=jpg);
+    background-attachment: fixed;
+}
+.height-custom {
+    height: 400px;
+    padding: 15px;
+}
+
+@media only screen and (max-width:688px) {
+    .height-custom {
+        overflow: scroll;
+    }
+}

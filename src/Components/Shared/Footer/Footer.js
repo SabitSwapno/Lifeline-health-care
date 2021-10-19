@@ -1,9 +1,10 @@
 import React from 'react';
 import { Col, Row } from 'react-bootstrap';
+import "./Footer.css"
 
 const Footer = () => {
     return (
-        <div className="bg-dark text-white p-3">
+        <div className="background text-white p-3">
             <h2 className="p-3">- Get in touch with us -</h2>
             <Row >
                 <Col>
