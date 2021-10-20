@@ -22,6 +22,6 @@ You pass the initial state to this function and it returns a variable with the c
 
 ### `UseEffect method`
 
-This is one of the important method used in this project this used to load data from api.
+This is one of the important method used in this project.This was used to load data from api.
 
 
