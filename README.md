@@ -7,16 +7,16 @@ This project was bootstrapped with normal css styles.
 
 Codes's Live site link is : https://lifeline-general-clinic.web.app/
 
-## Users interactions
+## Users Interactions
 
 An users can see all the information about clinic.
 Logged-in users have some extra accessibility to get the doctors info.
 
-## EMERGENCY CARE 
+## Emergency Care 
 
 Clinical excellence must be the priority for any health care service provider.
 
-## CHAMBER SERVICES
+## Chamber Services
 
 Create a strong and lasting first impression on your potential clients with Mediplus.
 
